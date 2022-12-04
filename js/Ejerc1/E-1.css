@@ -1,0 +1,40 @@
+body{
+    margin: 3%;
+    background: #f7e11b;
+    text-align: justify;
+    font-family: 'Dancing Script', cursive;
+}
+header{
+    width: auto;
+    justify-content: center;
+    margin-bottom: 2%;
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+}
+.img-header{
+width: 20%;
+}
+main {
+    padding: 2%;
+    width: auto;
+    border: 2px solid #000000;
+}
+.micro1{
+    margin: 2%;
+    text-align: center;
+}
+#text1{
+    margin: 1%;
+    padding: 1%;
+    border: solid 1px black;
+}
+.micro2{
+    margin: 2%;
+    text-align: center;
+}
+#comparacion2{
+    margin: 1%;
+    padding: 1%;
+    border: solid 1px black;
+}
